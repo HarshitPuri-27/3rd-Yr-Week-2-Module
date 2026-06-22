@@ -34,6 +34,9 @@ This repository contains Java implementations of fundamental Searching and Sorti
 - Analyze algorithm efficiency using time and space complexity.
 - Strengthen problem-solving skills using Java.
 
+### Week 2 Module PDF
+
+The uploaded PDF contains the complete Week 2 DSA assignment, including handwritten notes explaining the logic and approach of each algorithm, Java source code implementations, VS Code screenshots of the programs, output screenshots, and complexity analysis. It acts as a comprehensive study and submission document for the module covering Linear Search, Binary Search, Bubble Sort, Insertion Sort, and Selection Sort.
 ## Author
 
 Harshit Puri
